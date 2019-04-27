@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Dev GreenHouse</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="style.css" type="text/css" ></head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.4/Chart.min.js"></script>
+    <script type="text/javascript" src="chartjs/Chart.js"></script>
+    
+</head>
+
+<body>
+        <div class="wrapper">
+                <!-- Sidebar -->
+                <nav id="sidebar">
+                    <div class="sidebar-header">
+                        <h3>Dev GreenHouse</h3>
+                    </div>
+            
+                    <ul class="list-unstyled components">
+                        <p>Dev GreenHouse</p>
+                        <li >
+                            <a href="index.html"  >Home</a>
+                        </li>
+                        <li>
+                            <a href="monitoring.php" >Monitoring</a>
+                        </li>
+                        <li>
+                                <a href="portofolio.html">Portfolio</a>
+                        </li>
+                        <li>
+                                <a href="about.html">About</a>
+                        </li>
+                        <li>
+                            <a href="login.php">Login</a>
+                        </li>
+                    </ul>
+                </nav>
+                <!-- content-->
+                <div id="content">
+                        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                            <div class="container-fluid">
+                                
+                            </div>
+                        </nav>
+                        <h2>Dev GreenHouse</h2>
+   
+
+
+                    </div>
+            
+        </div>
+</body>
+</html>
